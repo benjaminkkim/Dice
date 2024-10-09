@@ -19,7 +19,7 @@ void draw()
   }
   fill(255,255,255);
   textSize(20);
-  text("Total # of dots: " + sum, 128, 500);
+  text("Total # of dots: " + sum, 135, 500);
 }
 void mousePressed()
 {
